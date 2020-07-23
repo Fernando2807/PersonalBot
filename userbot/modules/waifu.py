@@ -67,5 +67,5 @@ async def waifu(animu):
     
     CMD_HELP.update({
     'waifu':
-    ".waitfu : enjoy your text with anime."
+    ".waifu : enjoy your text with anime."
 })
